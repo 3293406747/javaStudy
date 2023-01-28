@@ -3,7 +3,7 @@
  * = += ++ - -= -- * *= /= % %=
  */
 
-public class Study9_Number {
+public class Study09_Number {
     public static void main(String[] args) {
         int age = 18;
         age += 1;

@@ -6,7 +6,7 @@
  */
 
 
-public class Study7_Variable {
+public class Study07_Variable {
     public static void main(String[] args) {
         String $JAVA_01 = "hello java";
         System.out.println($JAVA_01);

@@ -2,7 +2,7 @@
  * 常用数据类型
  */
 
-public class Study4_Type {
+public class Study04_Type {
     public static void main(String[] args) {
         int i = 10;             // 整数
         double pi = 3.14;       // 浮点数
